@@ -34,13 +34,13 @@ It includes transactional **emails** and a secure checkout flow.
 > The following images are **generic** placeholders to convey the product concept only.
 
 <p align="center">
-  <img src="assets/images/banner.jpg" width="320" alt="Bikes banner">
-  <img src="assets/images/ticket.jpg" width="320" alt="Illustrative ticket">
+  <img src="assets/images/banner.png" width="320" alt="Bikes banner">
+  <img src="assets/images/ticket.png" width="320" alt="Illustrative ticket">
 </p>
 
 <p align="center">
-  <img src="assets/images/raffle.jpg" width="320" alt="Raffle concept">
-  <img src="assets/images/email.jpg" width="320" alt="Transactional email illustration">
+  <img src="assets/images/raffle.png" width="320" alt="Raffle concept">
+  <img src="assets/images/email.png" width="320" alt="Transactional email illustration">
 </p>
 
 ---
