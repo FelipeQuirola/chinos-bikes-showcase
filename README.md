@@ -43,10 +43,6 @@ It includes transactional **emails** and a secure checkout flow.
   <img src="assets/images/email.jpg" width="320" alt="Transactional email illustration">
 </p>
 
-<p align="center">
-  <img src="assets/images/live-draw.jpg" width="320" alt="Live draw (illustration)">
-</p>
-
 ---
 
 ## 🔐 Privacy & Compliance
