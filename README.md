@@ -3,7 +3,8 @@
 **Chinos Bikes** is a web platform for **selling raffle tickets** and running **live bicycle raffles**.  
 It includes transactional **emails** and a secure checkout flow.  
 
-> 🌐 Live project https://chinosbikes.com .
+> 🌐 Live project https://chinosbikes.com
+
 > 🔒 This repository is a **showcase only** (no source code). Images below are **illustrative** and do not reveal internal screens or user data.
 
 ---
